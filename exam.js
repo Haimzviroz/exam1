@@ -241,3 +241,10 @@ function mission5(unit) {
   }
   return count.toString();
 }
+module.exports = {
+  mission1,
+  mission2,
+  mission3,
+  mission4,
+  mission5,
+};
